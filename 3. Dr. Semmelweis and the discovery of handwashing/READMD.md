@@ -2,4 +2,5 @@
 #### Pandas: slicing, making a new column
 #### matplotlib: plot for two dataframes
 #### bootstrap analysis
-![project_image](https://github.com/Young-Kim-7/DataCamp/assets/133941160/9133a190-1423-4f89-bcb0-7f7becbfa56a)
+
+![ignaz_semmelweis_1860](https://github.com/Young-Kim-7/DataCamp/assets/133941160/021e5656-36e2-43ba-88f4-fe0a280714c1)
